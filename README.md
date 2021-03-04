@@ -1,2 +1,0 @@
-# Rainbow
-My first repository
